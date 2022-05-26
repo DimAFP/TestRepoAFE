@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27386938283F4EC400ABE842 /* DimitriView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27386937283F4EC400ABE842 /* DimitriView.swift */; };
 		4351BAAE283F4C66004AE542 /* TestProjectGitAFEApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4351BAAD283F4C66004AE542 /* TestProjectGitAFEApp.swift */; };
 		4351BAB0283F4C66004AE542 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4351BAAF283F4C66004AE542 /* ContentView.swift */; };
 		4351BAB2283F4C6B004AE542 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4351BAB1283F4C6B004AE542 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		27386937283F4EC400ABE842 /* DimitriView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DimitriView.swift; sourceTree = "<group>"; };
 		4351BAAA283F4C66004AE542 /* TestProjectGitAFE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProjectGitAFE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4351BAAD283F4C66004AE542 /* TestProjectGitAFEApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectGitAFEApp.swift; sourceTree = "<group>"; };
 		4351BAAF283F4C66004AE542 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				4351BAAD283F4C66004AE542 /* TestProjectGitAFEApp.swift */,
 				4351BAAF283F4C66004AE542 /* ContentView.swift */,
+				27386937283F4EC400ABE842 /* DimitriView.swift */,
 				4351BAB1283F4C6B004AE542 /* Assets.xcassets */,
 				4351BAB3283F4C6B004AE542 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27386938283F4EC400ABE842 /* DimitriView.swift in Sources */,
 				4351BAB0283F4C66004AE542 /* ContentView.swift in Sources */,
 				4351BAAE283F4C66004AE542 /* TestProjectGitAFEApp.swift in Sources */,
 			);
