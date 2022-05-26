@@ -12,6 +12,7 @@
 		4351BAB0283F4C66004AE542 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4351BAAF283F4C66004AE542 /* ContentView.swift */; };
 		4351BAB2283F4C6B004AE542 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4351BAB1283F4C6B004AE542 /* Assets.xcassets */; };
 		4351BAB5283F4C6B004AE542 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4351BAB4283F4C6B004AE542 /* Preview Assets.xcassets */; };
+		4351BABE283F52B9004AE542 /* RicoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4351BABD283F52B9004AE542 /* RicoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		4351BAAF283F4C66004AE542 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4351BAB1283F4C6B004AE542 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4351BAB4283F4C6B004AE542 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4351BABD283F52B9004AE542 /* RicoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RicoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				4351BAAD283F4C66004AE542 /* TestProjectGitAFEApp.swift */,
 				4351BAAF283F4C66004AE542 /* ContentView.swift */,
 				27386937283F4EC400ABE842 /* DimitriView.swift */,
+				4351BABD283F52B9004AE542 /* RicoView.swift */,
 				4351BAB1283F4C6B004AE542 /* Assets.xcassets */,
 				4351BAB3283F4C6B004AE542 /* Preview Content */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				27386938283F4EC400ABE842 /* DimitriView.swift in Sources */,
+				4351BABE283F52B9004AE542 /* RicoView.swift in Sources */,
 				4351BAB0283F4C66004AE542 /* ContentView.swift in Sources */,
 				4351BAAE283F4C66004AE542 /* TestProjectGitAFEApp.swift in Sources */,
 			);
